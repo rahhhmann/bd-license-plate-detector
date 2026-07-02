@@ -1,0 +1,9 @@
+ultralytics==8.3.0
+transformers==4.40.0
+streamlit==1.40.0
+opencv-python-headless==4.10.0.84
+Pillow==10.4.0
+numpy==1.26.4
+pandas==2.2.0
+huggingface_hub
+datasets==2.19.0
